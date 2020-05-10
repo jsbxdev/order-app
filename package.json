@@ -1,0 +1,7 @@
+{
+  "name": "order-app",
+  "version": "1.0.0",
+  "description": "Data Management Pattern for Order Editor",
+  "main": "index.js",
+  "license": "MIT"
+}
